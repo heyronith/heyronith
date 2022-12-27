@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ronith Sharmila
-- 👀 I’m interested in lveraging data analytics & machine learning to improve marketing strategies.
+- 👀 I’m interested in leveraging data analytics & machine learning to improve marketing strategies.
 - Lets stay in touch : heyronith @ LinkedIn , ronthsharmila @ Instagram
 
 <!---
